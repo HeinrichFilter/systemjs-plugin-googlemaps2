@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/HeinrichFilter/systemjs-plugin-googlemaps",
   "jspm": {
+    "format": "es6",
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
